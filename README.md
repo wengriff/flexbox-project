@@ -1,6 +1,6 @@
 # The Tea Cozy - Flexbox Project
 
-A simple website where I was playing with Flexbox
+A simple website
 
 ## Table of Contents 
 
